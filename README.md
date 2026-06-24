@@ -75,16 +75,21 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter / Kaggle Notebooks
+
 Project Structure
+
 transport-trends-analysis
  ├── data/
  ├── notebook/
  ├── README.md
+ 
 Future Improvements
+
 Add forecasting models for transport demand
 Break down analysis by fuel type (if available)
 Build interactive dashboard (Power BI or Plotly)
 Integrate regional transport comparisons
+
 👤 Author
 
 Tawanda Colina Tsayang
